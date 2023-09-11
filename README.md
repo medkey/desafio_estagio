@@ -5,7 +5,7 @@ Desenvolva um sistema para fortalecer o relacionamento de nossos contratantes co
 
 ### **Objetivo**
 
-Avaliar habilidades técnicas, capacidade de pesquisa e design UI/UX do candidato.
+Avaliar até onde se estendem as habilidades técnicas, analíticas, de pesquisa e as noções de UI/UX do candidato. **Não é obrigatório a conclusão de todas as etapas.** O foco é observar sua abordagem, metodologia e resultados alcançados.
 
 ### **Duração**
 
@@ -16,7 +16,8 @@ O desafio deve ser concluído em até 2 semanas.
 ### **Parte 1: Configuração Inicial, Autenticação e API REST**
 
 1. **Setup:** 
-   - Configure um ambiente de desenvolvimento usando a stack de sua preferência. Preferencialmente (mas não obrigatoriamente) usando Node.js com Express para o backend.
+   - Configure um ambiente de desenvolvimento. Para o backend, preferencialmente (mas não obrigatoriamente) usando Node.js com Express. Para o frontend, sugerimos React, mas fique à vontade para escolher outra ferramenta se preferir.
+   - Para o banco de dados, recomendamos o PostgreSQL, porém você pode optar pelo que se sentir mais confortável.
    
 2. **Autenticação:** 
    - Implemente um sistema básico de login para os contratantes.
@@ -56,4 +57,4 @@ O desafio deve ser concluído em até 2 semanas.
 
 ## Notas
 
-O candidato pode solicitar orientações se necessário. O foco é avaliar a capacidade do candidato de entender o problema, pesquisar soluções e implementar uma solução funcional. Não é esperado que todas as funcionalidades sejam perfeitamente implementadas, mas a organização do código, design da interface e a documentação serão avaliados.
+O candidato pode solicitar orientações se necessário. A atenção será dada à organização do código, design da interface e a documentação.
