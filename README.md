@@ -32,6 +32,7 @@ O desafio deve ser concluído em até 2 semanas.
 4. **Integração com Twilio/WhatsApp:** 
    - Permita o envio de mensagens de texto para o WhatsApp.
    - (Diferencial) Considere cenários em que o cliente não responde ou o número de telefone não é válido.
+   - Credênciais e tokens para integração podem ser solicitadas a equipe avaliadora.
 
 ### **Parte 3: Painel de Gestão**
 
@@ -47,6 +48,7 @@ O desafio deve ser concluído em até 2 semanas.
    - Ao receber uma resposta do cliente via WhatsApp, gere uma resposta apropriada usando a API da OpenAI.
    - O prompt deve ser otimizado para que a resposta possa ser enviada diretamente ao cliente.
    - (Diferencial) Possibilidade de fine-tuning usando um arquivo CSV com interações prontas.
+   - Credênciais e tokens para integração podem ser solicitadas a equipe avaliadora.
 
 ## Instruções para Submissão
 
